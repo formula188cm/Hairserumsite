@@ -1,0 +1,51 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/4003a_next_dist_compiled_1a8dbfe2._.js",
+      "static/chunks/4003a_next_dist_shared_lib_068b5ea6._.js",
+      "static/chunks/4003a_next_dist_client_5e3efd7b._.js",
+      "static/chunks/4003a_next_dist_09a06eaf._.js",
+      "static/chunks/4003a_next_app_c42f496b.js",
+      "static/chunks/[next]_entry_page-loader_ts_8444f77f._.js",
+      "static/chunks/4003a_react-dom_95661663._.js",
+      "static/chunks/4003a_8379df7f._.js",
+      "static/chunks/[root-of-the-server]__5f243f29._.js",
+      "static/chunks/formula188cmtabletnewdesign-main_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-formula188cmtabletnewdesign-main_pages__app_5a6a01f3._.js"
+    ],
+    "/_error": [
+      "static/chunks/4003a_next_dist_compiled_1a8dbfe2._.js",
+      "static/chunks/4003a_next_dist_shared_lib_0b4c9d0d._.js",
+      "static/chunks/4003a_next_dist_client_5e3efd7b._.js",
+      "static/chunks/4003a_next_dist_2058cf75._.js",
+      "static/chunks/4003a_next_error_e76400a3.js",
+      "static/chunks/[next]_entry_page-loader_ts_cb1f9e78._.js",
+      "static/chunks/4003a_react-dom_95661663._.js",
+      "static/chunks/4003a_8379df7f._.js",
+      "static/chunks/[root-of-the-server]__9f1ceb54._.js",
+      "static/chunks/formula188cmtabletnewdesign-main_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-formula188cmtabletnewdesign-main_pages__error_74e81be5._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/4003a_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_430d6e89._.js",
+    "static/chunks/4003a_next_dist_compiled_react-dom_384b4686._.js",
+    "static/chunks/4003a_next_dist_compiled_react-server-dom-turbopack_bb6ecf5a._.js",
+    "static/chunks/4003a_next_dist_compiled_next-devtools_index_b7487fff.js",
+    "static/chunks/4003a_next_dist_compiled_4479dfb2._.js",
+    "static/chunks/4003a_next_dist_client_e614d870._.js",
+    "static/chunks/4003a_next_dist_57be32d5._.js",
+    "static/chunks/4003a_@swc_helpers_cjs_f163ae52._.js",
+    "static/chunks/formula188cmtabletnewdesign-main_a0ff3932._.js",
+    "static/chunks/turbopack-formula188cmtabletnewdesign-main_8e20ebbc._.js"
+  ]
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js"
+];
